@@ -137,6 +137,8 @@ a {
   color: #eaf6f6;
 }
 hr {
-  border-top: 7px dotted #eaf6f6;
+  border-top: 7px dotted #d8e0f0;
+  border-bottom-style: inherit;
+  border-left-style: inherit;
   width: 5%;
 }
